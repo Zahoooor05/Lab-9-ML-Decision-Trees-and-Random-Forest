@@ -81,5 +81,3 @@ Target variable: `not.fully.paid` (0 = paid, 1 = not fully paid)
 3. Run cells step by step
 4. Observe outputs and model performance
 
-## Author
-Zahra Al Ubaid
